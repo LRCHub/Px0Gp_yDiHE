@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "渋谷で5時 (2026 Ver.)（feat. 渋谷凪咲）",
+  "base_artist": "鈴木　雅之",
+  "createdAt": "2026-03-25T06:43:35.184478Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "渋谷で5時",
+      "artist": "Masayuki Suzuki",
+      "has_synced": false,
+      "path": "select/01_渋谷で5時_Masayuki_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "渋谷で5時",
+      "artist": "Maki Nomiya feat. Clémentine & Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/02_渋谷で5時_Maki_Nomiya_feat._Clémentine_&_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "渋谷で5時",
+      "artist": "Maki Nomiya/Clémentine/Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/03_渋谷で5時_Maki_Nomiya_Clémentine_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "渋谷で5時",
+      "artist": "Maki Nomiya",
+      "has_synced": true,
+      "path": "select/04_渋谷で5時_Maki_Nomiya.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "渋谷で5時",
+      "artist": "鈴木雅之",
+      "has_synced": false,
+      "path": "select/05_渋谷で5時_鈴木雅之.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "渋谷で5時(1996 Chocolate mix)",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/06_渋谷で5時(1996_Chocolate_mix)_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "渋谷で5時",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_01_渋谷で5時_鈴木_雅之.txt"
+    }
+  ]
+}
